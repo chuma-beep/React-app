@@ -1,10 +1,17 @@
 <h1>Notes</h1>
 <h3>Components:</h3>
 <article>
+
+<p>React components are similar to js functions, they're reusable indepent pieces of code. They work indepently and return HTML</p>
+
+ <h5>React component's are of two types</h5>:
+ <ol>
+    <h6>Functional Components</h6>
+      
+    <h6>Class Componnents</h6>
+  </ol>
 <p>
-Components can refer to other components in their output
-</p>
-<p>Don't be afraid to split conponents into smaller componets.
+Components can refer to other components in their output. Don't be afraid to split conponents into smaller componets.
 Components' names should be <a href="https://www.theserverside.com/definition/Pascal-case"> PascalCase</a>.
 You are adviced to think of your app or user interface as a bunch of components 
 Elements that need keys should be unique, no-random identifiers.
