@@ -20,12 +20,12 @@ You are adviced to think of your app or user interface as a bunch of components
 Elements that need keys should be unique, no-random identifiers.
 Methods should be in calmelCase and be named for their function.
 Components are dynamic and contain something called state.</p>
-   <h4>State</h4>
+   <h2>State</h2>
    This is likes a components memory, this determines how a componet renders and behaves. it lets a component keep track of some information and change it in response to interactions. 
     i. componets have App or Global state. these are availbale to the entire UI and Not just as single component.
     prior to React 16.8 , we had to use class based components to use state. 
     Now we can use functional components with hooks
-React Hooks
+  <h2>React Hooks</h2>
        these are functions that let us hook into React state and lifecycle faeatures from function components
 
     . useState- Returns a stateful value and a function to update it
@@ -34,16 +34,16 @@ React Hooks
     
  
 
-*Things to note about JSX
+<h3>Things to note about JSX</h3>
  . expressions in jsx mush have one parent
  . what ever you return must have a single parent and other components must go inside it.
 
 
-PropTypes:
+<h3>PropTypes:</h3>
   PropTypes is a a method you can use to ensure that the datatype is correct for each prop.
 
 
-Props (properties)
+<h3>Props (properties)</h3>
    Props are like arguements you pass to a function
    -to retrive props in your components you take in props as your parameter. this is similar to how arguments are passed in a fucntion.
    -props make components resuable as they pass data from one component to another.
@@ -53,7 +53,7 @@ Props (properties)
 
 
 
-Styling a react app:
+<h3>Styling a react app:</h3>
    -You can use css.
      .css in js
      .css modules
