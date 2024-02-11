@@ -7,9 +7,9 @@
  <h5>React component's are of two types:</h5>
 
  <ol>
-    <h6>Functional Components</h6>
-     <em>Things to note</em>
-    <h6>Class Componnents</h6>
+    <h5>Functional Components</h5>
+     <small>Things to note</small>
+    <h5>Class Componnents</h5>
      <em>Things to note</em>
   </ol>
 <p>
