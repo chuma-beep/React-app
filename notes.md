@@ -44,8 +44,8 @@ Components are dynamic and contain something called state.</p>
 
 
 <h3>Props (properties)</h3>
-
-  <ol>
+   <p></p>
+  
    -Props are like arguements you pass to a function
    -to retrive props in your components you take in props as your parameter. this is similar to how 
     arguments are passed in a function.
@@ -56,7 +56,7 @@ Components are dynamic and contain something called state.</p>
    -Props can be passed from parent to child by using the spread operator(...)
    -Props are read only
    -Props can be of various data types. strings, numbers, objects etc. 
-   </ol>
+   
 
 <h3>Styling a react app:</h3>
    -You can use css.
