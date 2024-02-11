@@ -5,7 +5,7 @@
 Components can refer to other components in their output
 </p>
 <p>Don't be afraid to split conponents into smaller componets.
-Components' names should be PascalCase.
+Components' names should be <a href="https://www.theserverside.com/definition/Pascal-case"> PascalCase</a>.
 You are adviced to think of your app or user interface as a bunch of components 
 Elements that need keys should be unique, no-random identifiers.
 Methods should be in calmelCase and be named for their function.
