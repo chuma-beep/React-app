@@ -8,10 +8,11 @@
 
  <ol>
     <h6>Functional Components</h6>
-     <p>Things to note</p>
-    <h6>Class Componnents</h6>
-     <p>Things to note</p>
+    <li>Functional components are easier to understand beacause requires less code than Class Components. Hence they are often prefered.</li>
+    <h6>Class Components</h6>
+   <li>Class components are more verbose, It must include `extends React.Component` and need  `render ` method to return HTML</li>
   </ol>
+
 <p>
 Components can refer to other components in their output. Don't be afraid to split conponents into smaller componets.
 Components' names should be <a href="https://www.theserverside.com/definition/Pascal-case"> PascalCase</a>.
