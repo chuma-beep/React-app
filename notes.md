@@ -26,7 +26,7 @@ Components are dynamic and contain something called state.</p>
     prior to React 16.8 , we had to use class based components to use state. 
     Now we can use functional components with hooks
   <h2>React Hooks</h2>
-       these are functions that let us hook into React state and lifecycle faeatures from function components
+       <p>these are functions that let us hook into React state and lifecycle faeatures from function components</p>
 
     . useState- Returns a stateful value and a function to update it
     . useEffect - Perform side effects in function comnponets 
