@@ -7,10 +7,10 @@
  <h5>React component's are of two types:</h5>
 
  <ol>
-    <h5>Functional Components</h5>
-     <small>Things to note</small>
-    <h5>Class Componnents</h5>
-     <em>Things to note</em>
+    <h6>Functional Components</h6>
+     <p>Things to note</p>
+    <h6>Class Componnents</h6>
+     <p>Things to note</p>
   </ol>
 <p>
 Components can refer to other components in their output. Don't be afraid to split conponents into smaller componets.
