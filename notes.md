@@ -26,7 +26,7 @@ Components are dynamic and contain something called state.</p>
     prior to React 16.8 , we had to use class based components to use state. 
     Now we can use functional components with hooks
   <h2>React Hooks</h2>
-       <p>these are functions that let us hook into React state and lifecycle faeatures from function components</p>
+       <p>These are functions that let us hook into React state and lifecycle faeatures from function components</p>
 
     . useState- Returns a stateful value and a function to update it
     . useEffect - Perform side effects in function comnponets 
@@ -40,18 +40,18 @@ Components are dynamic and contain something called state.</p>
 
 
 <h3>PropTypes:</h3>
-  PropTypes is a a method you can use to ensure that the datatype is correct for each prop.
+  PropTypes is a method you can use to ensure that the datatype is correct for each prop.
 
 
 <h3>Props (properties)</h3>
-   Props are like arguements you pass to a function
-   -to retrive props in your components you take in props as your parameter. this is similar to how arguments are passed in a fucntion.
-   -props make components resuable as they pass data from one component to another.
-   -props acts as a channel for component communication.
-   -props are passed to help properties be accessed if they make it to another parent tree. 
-
-
-
+  <ol>
+   -Props are like arguements you pass to a function
+   -to retrive props in your components you take in props as your parameter. this is similar to how 
+    arguments are passed in a function.
+   -Props make components resuable as they pass data from one component to another.
+   -Props acts as a channel for component communication.
+   -Props are passed to help properties be accessed if they make it to another parent tree. 
+   </ol>
 
 <h3>Styling a react app:</h3>
    -You can use css.
