@@ -8,7 +8,7 @@ Elements that need keys should be unique, no-random identifiers.
 Methods should be in calmelCase and be named for their function.
 Components are dynamic and contain something called state.
    State
-      this determines how a componet renders and behaves
+   This is likes a components memory, this determines how a componet renders and behaves. it lets a component keep track of some information and change it in response to interactions. 
     i. componets have App or Global state. these are availbale to the entire UI and Not just as single component.
     prior to React 16.8 , we had to use class based components to use state. 
     Now we can use functional components with hooks
@@ -31,6 +31,7 @@ PropTypes:
 
 
 Props (properties)
+   Props are like arguements you pass to a function
    -to retrive props in your components you take in props as your parameter. this is similar to how arguments are passed in a fucntion.
    -props make components resuable as they pass data from one component to another.
    -props acts as a channel for component communication.
@@ -51,5 +52,6 @@ Styling a react app:
 note that app.js is the .........
 ###
 
-Lesson2:
-Handling Lists and components
+sources for more learning:
+https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=4138s
+https://react.dev/learn/thinking-in-react
