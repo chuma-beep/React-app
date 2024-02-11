@@ -4,7 +4,7 @@
 <p>
 Components can refer to other components in their output
 </p>
-Don't be afraid to split conponents into smaller componets. 
+<p>Don't be afraid to split conponents into smaller componets.
 Components' names should be PascalCase.
 You are adviced to think of your app or user interface as a bunch of components 
 Elements that need keys should be unique, no-random identifiers.
