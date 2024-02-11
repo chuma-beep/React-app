@@ -44,6 +44,7 @@ Components are dynamic and contain something called state.</p>
 
 
 <h3>Props (properties)</h3>
+
   <ol>
    -Props are like arguements you pass to a function
    -to retrive props in your components you take in props as your parameter. this is similar to how 
