@@ -9,8 +9,8 @@ Components' names should be PascalCase.
 You are adviced to think of your app or user interface as a bunch of components 
 Elements that need keys should be unique, no-random identifiers.
 Methods should be in calmelCase and be named for their function.
-Components are dynamic and contain something called state.
-   State
+Components are dynamic and contain something called state.</p>
+   <h4>State</h4>
    This is likes a components memory, this determines how a componet renders and behaves. it lets a component keep track of some information and change it in response to interactions. 
     i. componets have App or Global state. these are availbale to the entire UI and Not just as single component.
     prior to React 16.8 , we had to use class based components to use state. 
