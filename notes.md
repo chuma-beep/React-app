@@ -44,17 +44,17 @@ Components are dynamic and contain something called state.</p>
 
 
 <h3>Props (properties)</h3>
-   <p></p>
   
-   . Props are like arguements you pass to a function
-   . To retrive props in your components you take in props as your parameter. this is similar to how arguments are passed in a function.
-   . Props make components resuable as they pass data from one component to another.
-   . Props acts as a channel for component communication.
-   . Props are passed to help properties be accessed if they make it to another parent tree. 
-   . You can define dfault props
-   . Props can be passed from parent to child by using the spread operator(...)
-   . Props are read only
-   . Props can be of various data types. strings, numbers, objects etc. 
+  
+   . Props are like arguements you pass to a function<br>
+   . To retrive props in your components you take in props as your parameter. this is similar to how arguments are passed in a function.<br>
+   . Props make components resuable as they pass data from one component to another.<br>
+   . Props acts as a channel for component communication.<br>
+   . Props are passed to help properties be accessed if they make it to another parent tree.<br>
+   . You can define dfault props<br>
+   . Props can be passed from parent to child by using the spread operator(...)<br>
+   . Props are read only<br>
+   . Props can be of various data types. strings, numbers, objects etc. <br>
    
 
 <h3>Styling a react app:</h3>
