@@ -51,6 +51,10 @@ Components are dynamic and contain something called state.</p>
    -Props make components resuable as they pass data from one component to another.
    -Props acts as a channel for component communication.
    -Props are passed to help properties be accessed if they make it to another parent tree. 
+   -You can define dfault props
+   -Props can be passed from parent to child by using the spread operator(...)
+   -Props are read only
+   -Props can be of various data types. strings, numbers, objects etc. 
    </ol>
 
 <h3>Styling a react app:</h3>
