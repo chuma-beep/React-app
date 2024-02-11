@@ -7,10 +7,10 @@
  <h5>React component's are of two types:</h5>
 
  <ol>
-    <h6>Functional Components</h6>
-    <li>Functional components are easier to understand beacause requires less code than Class Components. Hence they are often prefered.</li>
-    <h6>Class Components</h6>
-   <li>Class components are more verbose, It must include `extends React.Component` and need  `render ` method to return HTML</li>
+    <li>Functional Components</li>
+    <h6>Functional components are easier to understand beacause requires less code than Class Components. Hence they are often prefered.</h6>
+    <li>Class Components</li>
+   <h6>Class components are more verbose, It must include `extends React.Component` and need  `render ` method to return HTML</h6>
   </ol>
 
 <p>
