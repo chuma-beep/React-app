@@ -4,10 +4,13 @@
 
 <p>React components are similar to js functions, they're reusable indepent pieces of code. They work indepently and return HTML</p>
 
- <h5>React component's are of two types</h5>:
+ <h5>React component's are of two types:</h5>
+
  <ol>
     <h6>Functional Components</h6>
+     <em>Things to note</em>
     <h6>Class Componnents</h6>
+     <em>Things to note</em>
   </ol>
 <p>
 Components can refer to other components in their output. Don't be afraid to split conponents into smaller componets.
