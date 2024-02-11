@@ -1,6 +1,9 @@
-Lesson1:
-Components:
+<h1>Notes</h1>
+<h3>Components:</h3>
+<article>
+<p>
 Components can refer to other components in their output
+</p>
 Don't be afraid to split conponents into smaller componets. 
 Components' names should be PascalCase.
 You are adviced to think of your app or user interface as a bunch of components 
@@ -55,3 +58,5 @@ note that app.js is the .........
 sources for more learning:
 https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=4138s
 https://react.dev/learn/thinking-in-react
+
+</article>
