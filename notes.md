@@ -7,9 +7,9 @@ React components are similar to js functions, they're reusable indepent pieces o
  React component's are of two types:
 
  ## Functional Components
-    1. Functional components are easier to understand beacause requires less code than Class Components. Hence they are often prefered.
-    ### Class Components
-    #### Class components are more verbose, It must include `extends React.Component` and need  `render ` method to return HTML
+   1. Functional components are easier to understand beacause requires less code than Class Components. Hence they are often prefered.
+ ## Class Components
+   #### Class components are more verbose, It must include `extends React.Component` and need  `render ` method to return HTML
  
 Components can refer to other components in their output. Don't be afraid to split conponents into smaller componets.
 Components' names should be <a href="https://www.theserverside.com/definition/Pascal-case"> PascalCase</a>.
@@ -23,7 +23,7 @@ Components are dynamic and contain something called state.</p>
     prior to React 16.8 , we had to use class based components to use state. 
     Now we can use functional components with hooks
   ## React Hooks
-       #### These are functions that let us hook into React state and lifecycle faeatures from function components
+   #### These are functions that let us hook into React state and lifecycle faeatures from function components
 
     . useState- Returns a stateful value and a function to update it
     . useEffect - Perform side effects in function comnponets 
